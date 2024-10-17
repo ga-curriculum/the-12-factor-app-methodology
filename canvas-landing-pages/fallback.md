@@ -1,22 +1,20 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">The 12 Factor App Methodology for Saas</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+This course covers the 12-Factor App methodology, a set of best practices for building scalable, maintainable, and cloud-native applications. Developed by the team at Heroku, these principles help developers create robust applications that can seamlessly move between environments and scale based on demand. Learners will gain insights into the key principles and how to apply them to modern cloud platforms.
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
-| [Setup](./setup/README.md)                               | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                         | tktk Skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk Skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md)      | tktk Skills covered                     |
+| Lesson                                                                                      | Skills                                                                            |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [What is 12 Factor App Methodology?](../what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
+| [The 12 Principles](../the-12-principles/README.md)                                          | Declarative setup, Portability, Continuous deployment, Scalability best practices |
 
-## Level Up content
+## References
 
-| Lesson | Skills |
-| ------ | ------ |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk Skills covered |
+📖 [Reference Materials](../references/README.md)

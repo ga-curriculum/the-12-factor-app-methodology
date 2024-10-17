@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "The 12 Factor App Methodology for Saas"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "the-12-factor-app-methodology-for-saas"
   type = "Lesson"
 }
 
@@ -24,13 +24,15 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.whatIsThe12FactorAppMethodology
+      mls.the12Principles
+    }
+  }
+  new {
+    name = "mea"
+    microlessons {
+      mls.whatIsThe12FactorAppMethodology
+      mls.the12Principles
     }
   }
 }
