@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">The 12 Factor App Methodology for Saas</span>
+  <span class="headline">The 12 Factor App Methodology</span>
   <span class="subhead">What is The 12 Factor App Methodology?</span>
 </h1>
 
@@ -13,9 +13,9 @@
 
 ## The 12 Factor App
 
-The **Twelve-Factor App Methodology** is a set of best practices for building software-as-a-service or **SaaS** applications. It was developed by the team at [Heroku](https://devcenter.heroku.com/) in 2012.
+The [**Twelve-Factor App Methodology**](https://12factor.net/) is a set of best practices for building software-as-a-service or **SaaS** applications. It was developed by the team at [Heroku](https://devcenter.heroku.com/) in 2012.
 
-It defines a set of rules (known as the 12 Factor App Principles) that emphasize:
+It defines a set of rules (known as the 12 _Factors_ or Principles) that emphasize:
 
 - _Declarative setup for easy onboarding of new developers._
 

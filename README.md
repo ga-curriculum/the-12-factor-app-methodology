@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">The 12 Factor App Methodology for Saas</span>
+  <span class="headline">The 12 Factor App Methodology</span>
 </h1>
 
 ## About
@@ -9,10 +9,10 @@ This course covers the 12-Factor App methodology, a set of best practices for bu
 
 ## Content
 
-| Lesson                                                                                      | Skills                                                                            |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [What is 12 Factor App Methodology?](./what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
-| [The 12 Principles](./the-twelve-principles/README.md)                                      | Declarative setup, Portability, Continuous deployment, Scalability best practices |
+| Lesson                                                                                          | Skills                                                                            |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [What is the 12 Factor App Methodology?](./what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
+| [The 12 Principles](./the-twelve-principles/README.md)                                          | Declarative setup, Portability, Continuous deployment, Scalability best practices |
 
 ## References
 
@@ -26,8 +26,8 @@ This course covers the 12-Factor App methodology, a set of best practices for bu
 
 ### Github Pages Sites
 
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology-for-saas/canvas-landing-pages/fallback)
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology-for-saas/canvas-landing-pages/mea)
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology/canvas-landing-pages/fallback)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology/canvas-landing-pages/mea)
 
 ### Resources
 

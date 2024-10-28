@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">The 12 Factor App Methodology for Saas</span>
+  <span class="headline">The 12 Factor App Methodology</span>
 </h1>
 
 ## About
@@ -12,7 +12,7 @@ This course covers the 12-Factor App methodology, a set of best practices for bu
 
 | Lesson                                                                                       | Skills                                                                            |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [What is 12 Factor App Methodology?](../what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
+| [What is the 12 Factor App Methodology?](../what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
 | [The 12 Principles](../the-twelve-principles/README.md)                                      | Declarative setup, Portability, Continuous deployment, Scalability best practices |
 
 ## References

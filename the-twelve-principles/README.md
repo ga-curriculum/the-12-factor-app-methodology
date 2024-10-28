@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">The 12 Factor App Methodology for Saas</span>
+  <span class="headline">The 12 Factor App Methodology</span>
   <span class="subhead">The 12 Principles</span>
 </h1>
 

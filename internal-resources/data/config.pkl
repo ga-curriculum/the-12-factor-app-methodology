@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "The 12 Factor App Methodology for Saas"
+  friendlyName = "The 12 Factor App Methodology"
   // This must match the repo name as it appears on GitHub exactly
-  name = "the-12-factor-app-methodology-for-saas"
+  name = "the-12-factor-app-methodology"
   type = "Lesson"
 }
 
