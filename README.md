@@ -28,7 +28,7 @@ This course covers the 12-Factor App methodology, a set of best practices for bu
 ### Github Pages Sites
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology/canvas-landing-pages/fallback)
-- [MEA - Modern Engineering](https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/{{ site.github.repository_name }}/canvas-landing-pages/mea.md)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-12-factor-app-methodology/canvas-landing-pages/mea)
 
 ### Resources
 
