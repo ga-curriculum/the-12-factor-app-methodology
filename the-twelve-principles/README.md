@@ -37,7 +37,7 @@ Let's dive into each of the principles to understand them.
 
 ## 3. Config
 
-- store config in environment variables (env vars or env).
+- Store config in environment variables (env vars or env).
 
 - The reason is env is easy to change between the deploys without having to change the code.
 
@@ -61,15 +61,15 @@ Let's dive into each of the principles to understand them.
 
 - These three stages should be separated
 
-  - Build: It converts the code repo into an executable bundle of code called build, along with fetching vendor dependencies.
-  - Release: It takes the build and combines it with the current config of deploy. Therefore, this stage gives us build and config ready for execution.
-  - Run: It runs the app in an execution environment.
+  - **Build**: It converts the code repo into an executable bundle of code called build, along with fetching vendor dependencies.
+  - **Release**: It takes the build and combines it with the current config of deploy. Therefore, this stage gives us build and config ready for execution.
+  - **Run**: It runs the app in an execution environment.
 
 - This separation can be done using many modern tools, making maintaining the entire system as easy as possible. More in this to come...
 
 ## 6. Processes
 
-- 12 Factor processes are stateless and share nothing.
+12 Factor processes are **stateless** and **share nothing**.
 
 - Any data that is required time and again must be stored in a stateful backing service.
 
@@ -107,11 +107,11 @@ An applications processes are disposable, which means:
 
 Development, staging, and production of an app should be as similar as possible to ensure that anyone can understand and release it. An app that complies with 12 Factors is designed for continuous deployment by keeping the following gaps as minimum as possible:
 
-- The Time Gap: A developer can write a code and deploy it hours or just a few minutes later.
+- **The Time Gap**: A developer can write a code and deploy it hours or just a few minutes later.
 
-- The Personnel Gap: Programmers or owners of the code should be closely involved in deploying it.
+- **The Personnel Gap**: Programmers or owners of the code should be closely involved in deploying it.
 
-- The Tool Gap: The tools used for development and production should be as similar as possible.
+- **The Tool Gap**: The tools used for development and production should be as similar as possible.
 
 ## 11. Logs
 

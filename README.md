@@ -9,10 +9,11 @@ This course covers the 12-Factor App methodology, a set of best practices for bu
 
 ## Content
 
-| Lesson                                                                                          | Skills                                                                            |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [What is the 12 Factor App Methodology?](./what-is-the-twelve-factor-app-methodology/README.md) | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
-| [The 12 Principles](./the-twelve-principles/README.md)                                          | Declarative setup, Portability, Continuous deployment, Scalability best practices |
+| Lesson                                                                                          | Est. Delivery Time | Skills                                                                            |
+| ----------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
+| [What is the 12 Factor App Methodology?](./what-is-the-twelve-factor-app-methodology/README.md) | 10 min             | Understanding SaaS architecture, Cloud readiness, Separation of concerns          |
+| [The 12 Principles](./the-twelve-principles/README.md)                                          | 20 min             | Declarative setup, Portability, Continuous deployment, Scalability best practices |
+| Total Content                                                                                   | 30 min             |                                                                                   |
 
 ## References
 
